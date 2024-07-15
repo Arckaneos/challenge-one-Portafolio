@@ -3,7 +3,7 @@ Pagina web  con mi curriculum personal y GitHub y CV. página responsive para PC
 Desafio que hace parte del programa de educación One de Oracle y Alura.
 
 # Alura Latam
-Gracias a Alura Latam por permitirme poder completar el desafio AluraGeek y espero poder seguir y adentrarme mas en el mundo del Frontend 
+Gracias a Alura Latam por permitirme poder completar el desafio Portafolio y espero poder seguir y adentrarme mas en el mundo del Frontend 
 
 ![66936cf346147_download](https://github.com/user-attachments/assets/7f4e7726-5c87-467e-89df-6c43d87fe95a)
 
